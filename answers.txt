@@ -1,3 +1,9 @@
+
 Q1: Why might be consider using git?
 
 Answer: It is a great way to save and update code. It is a healthy practice to commit changes to GitHub as you can track the progress of your code.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data Science could be of great help to healthcare and medicine. An example is that you can use data science to track patient records and responses to treatment, which will allow hospitals to better treat their patients.
+
