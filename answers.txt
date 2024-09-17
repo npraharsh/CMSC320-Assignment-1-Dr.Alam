@@ -9,5 +9,9 @@ Answer: Data Science could be of great help to healthcare and medicine. An examp
 
 Q3: What is the difference between merging and rebasing?
 
-Answer: Merging takes two or more branches and joins them together, meaning their histories also get merged and preserved. Rebase just takes commits and reapplies it on top of another branch, meaning that rebase doesn't preserve history, it will overwrite it.  
+Answer: Merging takes two or more branches and joins them together, meaning their histories also get merged and preserved. Rebase just takes commits and reapplies it on top of another branch, meaning that rebase doesn't preserve history, it will overwrite it.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my skills in Python in this course. I came into this course with only a beginners level knowledge of Python, and the lecture regarding Pandas and SQL has helped me a lot and has provided interest and learning for me to continue learning Python.  
 
