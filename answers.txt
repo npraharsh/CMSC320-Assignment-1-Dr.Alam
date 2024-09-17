@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: It is a great way to save and update code. It is a healthy practice to commit changes to GitHub as you can track the progress of your code.
